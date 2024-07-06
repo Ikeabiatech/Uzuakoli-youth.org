@@ -1,0 +1,29 @@
+*
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.main
+{text-align: center;
+  border: 5pc seagreen; 
+   height: 200vh;
+   display: block;
+    
+}
+
+.down{
+    background-color: darkgreen;
+    display: grid;
+    padding: 10%;
+    margin: 50px;
+
+
+}
+
+
+
+   

@@ -1,0 +1,22 @@
+*
+
+{
+margin: 100; ;
+padding: 0;
+box-sizing: border-box;
+height: 2ch;
+background-color: wheat;
+
+
+
+}
+
+.main{
+    text-align: left;
+    border: 5pc;
+    display: block;
+    height: 200ch;
+    color: blue;
+
+
+}

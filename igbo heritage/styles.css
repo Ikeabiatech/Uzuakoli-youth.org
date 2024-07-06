@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    text-align: center;
+    border: 5px solid black;
+    height: 100vh;
+    display: grid;
+}
+
+.down{
+    background-color: rgb(255, 0, 13);
+    display: grid;
+    padding: 0;
+    margin: -30px;
+}

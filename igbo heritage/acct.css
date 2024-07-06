@@ -1,0 +1,27 @@
+*
+
+{
+
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.main
+{text-align: center;
+  background-color:navajowhite;
+  border: 5pc; 
+  height: 200vh; 
+  display: block;
+}
+
+
+.down{
+    background-color: blue;
+    display: grid;
+    padding: 0pc;
+    margin: 0vh;
+    border-bottom: 0dvh;
+    
+}
